@@ -6,8 +6,9 @@ body
 
       #banner { width: 100%; }
 
+.titulo-principal  {  padding-left: 25px;    }
 
-h1 { text-align: center;}
+.titulo-centralizado{ text-align: center;}
 
 p {text-align: center  ;  background: #cccccc }
 
@@ -21,4 +22,4 @@ em strong{ color: red;}
      .beneficios {  background: #ffffff;}
 
 
-h2 {text-align: center;}
+
